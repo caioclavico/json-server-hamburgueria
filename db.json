@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
+    },
+    {
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16,
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
+    },
+    {
+      "id": 3,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18,
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
+    },
+    {
+      "id": 4,
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "https://i.ibb.co/PwN5Y36/fanta-guarana.png"
+    },
+    {
+      "id": 5,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/KsKNjDq/coca-cola.png"
+    },
+    {
+      "id": 6,
+      "name": "Milkshake",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/4s5qCyZ/milkshake-ovomaltine.png"
+    }
+  ],
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "caio@gmail.com",
+      "password": "$2a$10$MKH2NxAochYKvf36DENh2uPlsA.Ctw0BzqrN6jgt6I4n4YgPNx7SO",
+      "name": "caio",
+      "id": 2
+    },
+    {
+      "email": "caioclavico@gmail.com",
+      "password": "$2a$10$VWAhxg.XdhT2/h9rhaWBS.HNLsVX.AmgXjgrcBf5xXAy6/wEJLLLy",
+      "name": "caio",
+      "id": 3
+    }
+  ],
+  "cart": []
+}
